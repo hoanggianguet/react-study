@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "id": "282f",
+      "name": "Randolph Terry I"
+    },
+    {
+      "id": "6c75",
+      "name": "Mamie Aufderhar"
+    },
+    {
+      "id": "11b9",
+      "name": "Spencer Hills"
+    },
+    {
+      "id": "8187",
+      "name": "Craig Kilback"
+    },
+    {
+      "id": "4464",
+      "name": "Amos Weimann"
+    },
+    {
+      "id": "5462",
+      "name": "Joanna Wintheiser"
+    },
+    {
+      "id": "3148",
+      "name": "Corey Kihn"
+    },
+    {
+      "id": "5379",
+      "name": "Grace Jerde"
+    },
+    {
+      "id": "9427",
+      "name": "Perry Daniel"
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
